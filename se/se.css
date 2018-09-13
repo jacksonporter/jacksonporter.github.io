@@ -1,0 +1,65 @@
+/* Style Sheet for se.html */
+body
+{
+background-color: #e6f2ff;
+}
+
+header{
+height:15%;
+}
+
+nav
+{
+position:absolute; 
+float:left; 
+width:20%;
+height:450px;
+background-image:url("navbackground.jpg");
+}
+
+article
+{
+position:relative;
+left:21%;
+width:79%;
+}
+
+footer
+{
+position:relative;
+left:21%;
+width:79%;
+margin-top:20px;
+}
+
+div.centerarticle
+{
+display:block;
+vertical-align:middle;
+width:79%;
+}
+
+h1.center
+{
+text-align:center;
+}
+
+h1.pagetitle
+{
+color: #1a88ff;
+font-family: cursive;
+text-align: center;
+}
+
+img.logol
+{
+float:left;
+margin-right:5px;
+}
+
+hr.article
+{
+height:2px;
+margin-left:0;
+text-align:left;
+}
