@@ -13,8 +13,8 @@ nav
 position:absolute; 
 float:left; 
 width:20%;
-height:450px;
-background-image:url("navbackground.jpg");
+height:85%;
+background-image:url("img/navbackground.jpg");
 }
 
 article
