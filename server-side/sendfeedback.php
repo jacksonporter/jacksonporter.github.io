@@ -81,7 +81,7 @@ if (mail($email_to, $email_subject, $email_message, $headers))
     <meta name="Keywords" content="Jackson Porter's ePortfolio">
     <meta name="Description" content="ePortfolio for Jackson Porter,
       Software Engineering Student.">
-    <link rel="stylesheet" type="text/css" href="sendfeedback/sendfeeback.css">
+    <link rel="stylesheet" type="text/css" href="css/sendfeedback.css">
     <title>Send Feedback</title>
   </head>
   <body>
@@ -199,7 +199,7 @@ else
       <meta name="Description" content="ePortfolio for Jackson Porter,
         Software Engineering Student.">
       <meta http-enquiv="content-type" content="text/html; charset=UTF-8">
-      <link rel="stylesheet" type="text/css" href="contact.css">
+      <link rel="stylesheet" type="text/css" href="css/sendfeeback.css">
       <title>Send Feedback</title>
     </head>
     <body>
